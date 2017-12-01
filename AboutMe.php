@@ -12,7 +12,7 @@
   </ul>
   <a href="./index.php">Home</a>
   
-  <p class="test bold"> This is a paragraph too. edit </p>
+  <p class="test bold"> This is a paragraph too. edit 2</p>
   
   </br></br>
   
